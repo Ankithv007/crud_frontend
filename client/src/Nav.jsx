@@ -20,7 +20,7 @@ const Nav = () => {
         zIndex: 1000,
       }}
     >
-      Book Management System(BMS)
+      Book Management System(BMS) BY ANKITH
     </nav>
   );
 };
