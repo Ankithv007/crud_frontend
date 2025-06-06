@@ -20,7 +20,7 @@ const Nav = () => {
         zIndex: 1000,
       }}
     >
-      Book Management System BY Ankith
+      Book Management System BY Ankith B V
     </nav>
   );
 };
