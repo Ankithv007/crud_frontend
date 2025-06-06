@@ -20,11 +20,7 @@ const Nav = () => {
         zIndex: 1000,
       }}
     >
-<<<<<<< Updated upstream
       Book Management System
-=======
-      Book Management System BY ANKITH
->>>>>>> Stashed changes
     </nav>
   );
 };
